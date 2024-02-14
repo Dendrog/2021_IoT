@@ -1,8 +1,6 @@
 # 2021_ioT_contest
 2021년 겨울방학 ioT경진대회 자동공동현관문 팀프로젝트
 
-### [발표 영상](https://user-images.githubusercontent.com/77189999/183679210-b83f0bd3-9860-4bb1-9728-a97a344e3038.mp4)
-
 ![슬라이드0001](https://user-images.githubusercontent.com/77189999/183679846-4795f540-8c3b-4424-9d82-e1e27c7e6ead.png)
 ![슬라이드0002](https://user-images.githubusercontent.com/77189999/183679851-13b33130-8131-4bc0-aebe-56cec6d78d65.png)
 ![슬라이드0003](https://user-images.githubusercontent.com/77189999/183679720-ddb9bec2-fcb1-4cc3-9c2f-7b4215489eea.png)
